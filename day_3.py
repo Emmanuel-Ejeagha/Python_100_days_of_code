@@ -80,7 +80,7 @@
 # if extra_cheese == "Y":
 #     bill += 1
 # print(f"Your final bill is ${bill}.")
-# print("*\n" * 30)
+# print("*" * 30)
 
 
 ## Treasure Island Game.
@@ -128,8 +128,4 @@ if decision_1 == 'left':
 
 else:
     print("Game Over!")
-print("*\n" * 30)
-
-
-
-
+print("*" * 30)
